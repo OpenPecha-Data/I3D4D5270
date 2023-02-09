@@ -1,0 +1,16 @@
+id: I3D4D5270
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:40:38.141337
+last_modified: 2023-02-09 14:40:38.141426
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: bo
+bases:
+  34F5:
+    base_file: 34F5.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
